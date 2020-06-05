@@ -1,7 +1,7 @@
 {
   "name": "api-states",
   "version": "0.0.1",
-  "description": "",
+  "description": "Uma api que manipula arquivos json, e retorna informações de cada estado brasileiro, e suas respectivas cidades.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
